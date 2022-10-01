@@ -17,7 +17,7 @@ console.error("This is some error.");
 console.clear();
 console.warn("This is a warning");
 console.time('Hello');
-
+//Timing the series of hello worlds.
     console.log("Hello world!");
     console.log("Hello world!");
     console.log("Hello world!");
