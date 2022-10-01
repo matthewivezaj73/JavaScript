@@ -13,6 +13,8 @@ console.log({a:1, b:2});
 console.table({a:1, b:2});
 //Logging errors.
 console.error("This is some error.");
+//Cleaaring the console.
+console.clear();
 /*
     Multi
     line
