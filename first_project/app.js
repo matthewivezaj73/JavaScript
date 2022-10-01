@@ -17,6 +17,8 @@ console.error("This is some error.");
 console.clear();
 console.warn("This is a warning");
 console.time('Hello');
+
+console.timeEnd('Hello');
 /*
     Multi
     line
