@@ -6,6 +6,8 @@ console.log(true)
 var greeting = 'Hello';
 //Logging the greeting to the console.
 console.log(greeting)
+
+console.log([1,2,3,4])
 /*
     Multi
     line
