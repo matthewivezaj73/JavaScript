@@ -9,6 +9,7 @@ console.log(greeting);
 //Logging a dictionary and numbers to the console.
 console.log([1,2,3,4]);
 console.log({a:1, b:2});
+console.table({a:1, b:2};)
 /*
     Multi
     line
