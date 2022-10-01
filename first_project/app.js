@@ -24,7 +24,6 @@ console.time('Hello');
     console.log("Hello world!");
     console.log("Hello world!");
     console.log("Hello world!");
-
 console.timeEnd('Hello');
 /*
     Multi
