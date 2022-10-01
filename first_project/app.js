@@ -12,7 +12,7 @@ console.log({a:1, b:2});
 //Logging a table.
 console.table({a:1, b:2});
 //Logging errors.
-console.error();
+console.error("This is some error.");
 /*
     Multi
     line
