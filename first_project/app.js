@@ -1,6 +1,7 @@
 //Log to console.
 console.log("Hello world!");
 console.log(123);
+//Let and const have a huge advantage when it comes to block level scope.
 console.log(true);
 //Creating a variable.
 var greeting = 'Hello';
