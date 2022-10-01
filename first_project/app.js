@@ -1,1 +1,1 @@
-alert("Hello user, welcome to the page.");
+//Log to console.
