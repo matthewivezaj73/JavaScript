@@ -18,7 +18,9 @@ console.clear();
 console.warn("This is a warning");
 console.time('Hello');
 
-
+console.log("Hello world!");
+console.log("Hello world!");
+console.log("Hello world!");
 console.log("Hello world!");
 console.log("Hello world!");
 console.log("Hello world!");
