@@ -5,9 +5,10 @@ console.log(true)
 //Creating a variable.
 var greeting = 'Hello';
 //Logging the greeting to the console.
-console.log(greeting)
+console.log(greeting);
 
-console.log([1,2,3,4])
+console.log([1,2,3,4]);
+console.log({a:1, b:2});
 /*
     Multi
     line
