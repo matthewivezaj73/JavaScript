@@ -15,6 +15,7 @@ console.table({a:1, b:2});
 console.error("This is some error.");
 //Cleaaring the console.
 console.clear();
+console.warn("This is a warning");
 /*
     Multi
     line
