@@ -71,3 +71,4 @@ while ($password != "&Fr4$nk1*NK_323")
 const username = "Marie";
 console.log(username);
 //Logging the object.
+console.log(object);
