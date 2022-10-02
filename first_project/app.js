@@ -77,3 +77,4 @@ console.log(username);
 console.log(object);
 //Creating an array.
 const numbers = [1,2,3,4,5];
+//Pushing a number to the list.
