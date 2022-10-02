@@ -47,4 +47,5 @@ console.log(greeting);
 */
 //Creating a while loop for the user to enter their name, this loop will persist until a valid name is entered.
 var $name = 'John';
+while ($name != "John")
 prompt("Please enter your name:")
