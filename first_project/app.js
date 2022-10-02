@@ -50,5 +50,5 @@ var $name = '';
 while ($name != "John")
 {
     //Prompting the user for their name.
-    prompt("Please enter your name:")
+    prompt("Please enter your name:");
 }
