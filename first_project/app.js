@@ -33,3 +33,4 @@ console.timeEnd('Hello');
 */
 
 //Var, let const.
+var name = "John Doe";
