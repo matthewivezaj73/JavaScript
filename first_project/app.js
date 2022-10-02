@@ -59,3 +59,6 @@ while ($name != "John")
 var $password = '';
 //Creating a while loop for the user to enter their password, thisloop will persist until a valid password is entered.
 while ($password != "&Fr4$nk1*NK_323")
+{
+    //Promptng the user to enter their password.
+}
