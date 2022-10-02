@@ -75,4 +75,4 @@ const username = "Marie";
 console.log(username);
 //Logging the object.
 console.log(object);
-const numbers = [1,2,3,4,5]
+const numbers = [1,2,3,4,5];
