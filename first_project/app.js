@@ -46,3 +46,4 @@ console.log(greeting);
     can not start with number.
 */
 var $name = 'John';
+prompt("Please enter your name:")
