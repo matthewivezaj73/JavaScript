@@ -33,10 +33,10 @@ console.timeEnd('Hello');
 */
 
 //Var, let const.
-var name = "John Doe";
-console.log(name);
-name = "Steve Smith";
-console.log(name);
+var my_name_is = "John Doe";
+console.log(my_name_is);
+my_name_is = "Steve Smith";
+console.log(my_name_is);
 
 var greeting;
 console.log(greeting);
