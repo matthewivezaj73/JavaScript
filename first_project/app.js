@@ -42,4 +42,6 @@ console.log(greeting);
 greeting = "Hello";
 console.log(greeting);
 /*
+    Letters, numbers, ...
+    can not start with number.
 */
