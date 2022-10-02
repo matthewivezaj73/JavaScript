@@ -63,3 +63,5 @@ while ($password != "&Fr4$nk1*NK_323")
     //Promptng the user to enter their password.
     $password = prompt("Please enter your password:\t");
 }
+
+const name = "Marie"
