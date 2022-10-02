@@ -64,5 +64,5 @@ while ($password != "&Fr4$nk1*NK_323")
     $password = prompt("Please enter your password:\t");
 }
 // created a const variable.
-const $name = "Marie";
-console.log($name);
+const username = "Marie";
+console.log(username);
