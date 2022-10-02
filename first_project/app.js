@@ -55,7 +55,7 @@ while ($name != "John")
     //Prompting the user for their name.
     $name = prompt("First, please enter your name:");
 }
-//Creating a variavle to contain a user reponse for their password.
+//Creating a variable to contain a user reponse for their password.
 var $password = '';
 //Creating a while loop for the user to enter their password, thisloop will persist until a valid password is entered.
 while ($password != "&Fr4$nk1*NK_323")
