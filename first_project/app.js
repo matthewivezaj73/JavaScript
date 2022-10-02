@@ -53,6 +53,6 @@ var $name = '';
 while ($name != "John")
 {
     //Prompting the user for their name.
-    $name = prompt("Please enter your name:");
+    $name = prompt("First, please enter your name:");
 }
 //Creating a variavle to contain a user reponse for their password.
