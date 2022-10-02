@@ -45,6 +45,7 @@ console.log(greeting);
     Letters, numbers, ...
     can not start with number.
 */
+//Creating a person object.
 //Giving the user an alert to enter their name.
 alert("Please enter your log credentials.")
 //Creating a placeholder for the name variable.
