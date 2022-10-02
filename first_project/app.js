@@ -49,6 +49,5 @@ console.log(greeting);
 var $name = 'John';
 while ($name != "John")
 {
-    
+
 }
-prompt("Please enter your name:")
