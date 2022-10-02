@@ -48,6 +48,7 @@ console.log(greeting);
 //Creating a person object.
 const person = {
     name: "Mike"
+    age: 26
 }
 //Giving the user an alert to enter their name.
 alert("Please enter your log credentials.")
