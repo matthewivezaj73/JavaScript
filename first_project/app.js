@@ -46,7 +46,7 @@ console.log(greeting);
     can not start with number.
 */
 //Giving the user an alert to enter their name.
-alert("Please enter your username.")
+alert("Please enter your log credentials.")
 //Creating a placeholder for the name variable.
 var $name = '';
 //Creating a while loop for the user to enter their name, this loop will persist until a valid name is entered.
