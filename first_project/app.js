@@ -45,6 +45,7 @@ console.log(greeting);
     Letters, numbers, ...
     can not start with number.
 */
+//Giving the user an alert to enter their name.
 //Creating a placeholder for the name variable.
 var $name = '';
 //Creating a while loop for the user to enter their name, this loop will persist until a valid name is entered.
