@@ -46,7 +46,7 @@ console.log(greeting);
     can not start with number.
 */
 //Creating a while loop for the user to enter their name, this loop will persist until a valid name is entered.
-var $name = 'John';
+var $name = '';
 while ($name != "John")
 {
     //Prompting the user for their name.
