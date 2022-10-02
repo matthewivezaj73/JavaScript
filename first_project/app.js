@@ -32,13 +32,3 @@ console.timeEnd('Hello');
     comments.
 */
 
-//Var, let const.
-var my_name_is = "John Doe";
-console.log(my_name_is);
-my_name_is = "Steve Smith";
-console.log(my_name_is);
-
-var greeting;
-console.log(greeting);
-greeting = "Hello";
-console.log(greeting);
