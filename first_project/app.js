@@ -41,3 +41,4 @@ console.log(name);
 var greeting;
 console.log(greeting);
 greeting = "Hello";
+console.log(greeting);
