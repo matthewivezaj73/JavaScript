@@ -56,3 +56,4 @@ while ($name != "John")
     $name = prompt("First, please enter your name:");
 }
 //Creating a variavle to contain a user reponse for their password.
+var $password = '';
