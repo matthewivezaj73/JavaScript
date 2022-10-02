@@ -45,3 +45,4 @@ console.log(greeting);
     Letters, numbers, ...
     can not start with number.
 */
+var $name = 'John';
