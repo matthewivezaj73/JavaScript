@@ -68,6 +68,7 @@ while ($password != "&Fr4$nk1*NK_323")
     //Promptng the user to enter their password.
     $password = prompt("Please enter your password:\t");
 }
+//Changing the name attribute of the person object.
 // created a const variable.
 const username = "Marie";
 console.log(username);
