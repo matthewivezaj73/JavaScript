@@ -78,5 +78,6 @@ console.log(object);
 //Creating an array.
 const numbers = [1,2,3,4,5];
 //Pushing a number to the list.
+numbers.push(8);
 //Logging the array to the console.
 console.log(numbers)
