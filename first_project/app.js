@@ -57,3 +57,4 @@ while ($name != "John")
 }
 //Creating a variavle to contain a user reponse for their password.
 var $password = '';
+//Creating a while loop for the user to enter their password, thisloop will persist until a valid password is entered.
