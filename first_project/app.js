@@ -75,3 +75,4 @@ const username = "Marie";
 console.log(username);
 //Logging the object.
 console.log(object);
+//Creating a list of numbers.
