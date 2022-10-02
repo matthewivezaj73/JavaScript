@@ -70,3 +70,4 @@ while ($password != "&Fr4$nk1*NK_323")
 // created a const variable.
 const username = "Marie";
 console.log(username);
+//Logging the object.
