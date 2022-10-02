@@ -46,6 +46,9 @@ console.log(greeting);
     can not start with number.
 */
 //Creating a person object.
+const person = {
+    
+}
 //Giving the user an alert to enter their name.
 alert("Please enter your log credentials.")
 //Creating a placeholder for the name variable.
