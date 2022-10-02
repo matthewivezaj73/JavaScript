@@ -31,3 +31,5 @@ console.timeEnd('Hello');
     line
     comments.
 */
+
+//Var, let const.
